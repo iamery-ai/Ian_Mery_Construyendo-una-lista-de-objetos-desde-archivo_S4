@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;Salmón Atlántico;1200
+Lago Llanquihue;Puerto Varas;Salmón;850
+Canal Pudeto;Ancud;Salmón Rosado;2100
+Seno Reloncaví;Cochamó;Ostión del Sur;640
+Golfo Corcovado;Quellón; Alga Luche;1750
