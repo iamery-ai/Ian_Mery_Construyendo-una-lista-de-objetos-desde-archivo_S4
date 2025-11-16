@@ -1,4 +1,4 @@
-package util;
+package ui;
 
 import data.GestorDatos;
 import model.Centro;

@@ -14,7 +14,7 @@ proyecto-centros-cultivo/
     │   └── GestorDatos.java
     ├── model/
     │   └── Centro.java
-    └── util/
+    └── ui/
         └── Main.java
 ```
 🖥️ Funcionalidades:
